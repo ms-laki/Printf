@@ -1,4 +1,3 @@
-# Printf
 # Printf project
 
 # Description
