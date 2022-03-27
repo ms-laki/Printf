@@ -9,3 +9,6 @@ Unix logic
 # Skills
 Rigor
 Algorithms & AI
+
+# My Results
+100%
