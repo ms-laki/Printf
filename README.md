@@ -1,14 +1,3 @@
-# Printf project
+# My Printf Results
 
-# Description
-This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects.
-
-# Keywords
-Unix logic
-
-# Skills
-Rigor
-Algorithms & AI
-
-# My Results
-100%
+<img width="914" alt="Screen Shot 2022-10-28 at 8 50 37 PM" src="https://user-images.githubusercontent.com/87255552/198564809-533714d0-cde3-4353-ae87-2fe46495a962.png">
